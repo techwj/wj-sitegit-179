@@ -1,0 +1,88 @@
+# Validation Report - plant-pest-disease-control
+
+Generated: 2026-06-04T11:35:49.843555
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Plant Pest Disease Control
+- ✓ Article word count OK: Beginner Plant Pest Disease Control: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Plant Pest Disease Control
+- ✓ Article word count OK: Beginner Plant Pest Disease Control Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Plant Pest Disease Control
+- ✓ Article word count OK: Beginner Plant Pest Disease Control in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Plant Pest Disease Control
+- ✓ Article word count OK: Common Mistakes in Beginner Plant Pest Disease Control
+- ✓ Article word count OK: Beginner Plant Pest Disease Control for Beginners
+- ✓ Article word count OK: Advanced Beginner Plant Pest Disease Control Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Plant Pest Disease Control
+- ✓ Article word count OK: Advanced Plant Pest Disease Control: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Plant Pest Disease Control
+- ✓ Article word count OK: Advanced Plant Pest Disease Control Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Plant Pest Disease Control
+- ✓ Article word count OK: Advanced Plant Pest Disease Control in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Plant Pest Disease Control
+- ✓ Article word count OK: Common Mistakes in Advanced Plant Pest Disease Control
+- ✓ Article word count OK: Advanced Plant Pest Disease Control for Beginners
+- ✓ Article word count OK: Advanced Advanced Plant Pest Disease Control Techniques
+- ✓ Article word count OK: The Ultimate Guide to Plant Pest Disease Control Tips
+- ✓ Article word count OK: Plant Pest Disease Control Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Plant Pest Disease Control Tips
+- ✓ Article word count OK: Plant Pest Disease Control Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Plant Pest Disease Control Tips
+- ✓ Article word count OK: Plant Pest Disease Control Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Plant Pest Disease Control Tips
+- ✓ Article word count OK: Common Mistakes in Plant Pest Disease Control Tips
+- ✓ Article word count OK: Plant Pest Disease Control Tips for Beginners
+- ✓ Article word count OK: Advanced Plant Pest Disease Control Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Plant Pest Disease Control History
+- ✓ Article word count OK: Plant Pest Disease Control History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Plant Pest Disease Control History
+- ✓ Article word count OK: Plant Pest Disease Control History Tips and Best Practices
+- ✓ Article word count OK: The History of Plant Pest Disease Control History
+- ✓ Article word count OK: Plant Pest Disease Control History in 2026: Current Trends
+- ✓ Article word count OK: Future of Plant Pest Disease Control History
+- ✓ Article word count OK: Common Mistakes in Plant Pest Disease Control History
+- ✓ Article word count OK: Plant Pest Disease Control History for Beginners
+- ✓ Article word count OK: Advanced Plant Pest Disease Control History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Plant Pest Disease Control
+- ✓ Article word count OK: Trending Plant Pest Disease Control: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Plant Pest Disease Control
+- ✓ Article word count OK: Trending Plant Pest Disease Control Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Plant Pest Disease Control
+- ✓ Article word count OK: Trending Plant Pest Disease Control in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Plant Pest Disease Control
+- ✓ Article word count OK: Common Mistakes in Trending Plant Pest Disease Control
+- ✓ Article word count OK: Trending Plant Pest Disease Control for Beginners
+- ✓ Article word count OK: Advanced Trending Plant Pest Disease Control Techniques
+- ✓ Article word count OK: The Ultimate Guide to Plant Pest Disease Control Tutorials
+- ✓ Article word count OK: Plant Pest Disease Control Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Plant Pest Disease Control Tutorials
+- ✓ Article word count OK: Plant Pest Disease Control Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Plant Pest Disease Control Tutorials
+- ✓ Article word count OK: Plant Pest Disease Control Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Plant Pest Disease Control Tutorials
+- ✓ Article word count OK: Common Mistakes in Plant Pest Disease Control Tutorials
+- ✓ Article word count OK: Plant Pest Disease Control Tutorials for Beginners
+- ✓ Article word count OK: Advanced Plant Pest Disease Control Tutorials Techniques
+- ✓ Ad configuration validated
